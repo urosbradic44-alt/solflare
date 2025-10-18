@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Test output
+screenshots/
+logs/
+coverage/
+
+# Environment files
+.env
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# npm debug log
+npm-debug.log*
+
+# WebdriverIO
+.errorShots/
+allure-results/
